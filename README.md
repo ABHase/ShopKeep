@@ -4,6 +4,8 @@
 
 8/7/2020
 
+As of this version the opening cutscene, title screen and sounds are disabled.
+
 Current Controls:
 
 Esc exits the program
