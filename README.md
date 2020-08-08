@@ -6,6 +6,8 @@
 
 As of this version the opening cutscene, title screen and sounds are disabled.
 
+To run the game just launch dinodeck_win.exe
+
 Current Controls:
 
 Esc exits the program
